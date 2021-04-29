@@ -1,4 +1,4 @@
-# btl
+# Game Tetris
 
 ## ** Giới thiệu game**
 * Game xây dựng trên cơ sở thư viện SDL2 và được viết bởi C++
